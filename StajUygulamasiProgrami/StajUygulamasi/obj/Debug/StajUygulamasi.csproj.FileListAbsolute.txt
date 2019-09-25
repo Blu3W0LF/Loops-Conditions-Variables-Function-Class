@@ -1,0 +1,9 @@
+C:\Users\Root\Desktop\StajUygulamasiProgrami\StajUygulamasi\bin\Debug\StajUygulamasi.exe.config
+C:\Users\Root\Desktop\StajUygulamasiProgrami\StajUygulamasi\bin\Debug\StajUygulamasi.exe
+C:\Users\Root\Desktop\StajUygulamasiProgrami\StajUygulamasi\bin\Debug\StajUygulamasi.pdb
+C:\Users\Root\Desktop\StajUygulamasiProgrami\StajUygulamasi\obj\Debug\StajUygulamasi.Form1.resources
+C:\Users\Root\Desktop\StajUygulamasiProgrami\StajUygulamasi\obj\Debug\StajUygulamasi.Properties.Resources.resources
+C:\Users\Root\Desktop\StajUygulamasiProgrami\StajUygulamasi\obj\Debug\StajUygulamasi.csproj.GenerateResource.cache
+C:\Users\Root\Desktop\StajUygulamasiProgrami\StajUygulamasi\obj\Debug\StajUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\Root\Desktop\StajUygulamasiProgrami\StajUygulamasi\obj\Debug\StajUygulamasi.exe
+C:\Users\Root\Desktop\StajUygulamasiProgrami\StajUygulamasi\obj\Debug\StajUygulamasi.pdb
